@@ -1,5 +1,5 @@
 # Objectives 
-  1.Create a component called PersonCard that accepts the following props: 
+  1.Create a class component called PersonCard that accepts the following props: 
 
     firstName
     lastName
